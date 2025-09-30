@@ -1,0 +1,6 @@
+# File: .gitignore
+*.exe
+*.dll
+*.pak
+*.bin
+resources/
